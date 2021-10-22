@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @orjanh-confirmit
+- 👀 I’m interested in:
+- - Build process
+- - TeamCity
+- 🌱 I’m currently learning:
+- - Docker and Kubernetes
+- 📫 How to reach me:
+- - Slack preferred
